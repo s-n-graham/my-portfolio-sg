@@ -18,7 +18,7 @@ export default [
 		title: "Bachelor's Degree in 'Business Information Technology'",
 		duration: '3.5 years',
 		details:
-			'I excelled on the UX path and loved it. However, development rewarded me with a new way to think and solve as an extension to user centered design, Figma and Adobe XD. I later wrote my thesis on serverless software development with AWS and Azure.',
+			'I chose and excelled on the UX/UI path and absolutely loved it, always taking a leadership role. Additionally, development rewarded me with a new way to think, communicate and solve as an extension to user centered design strategy. Figma and Adobe XD are my main tools. I later wrote my thesis on serverless software development with AWS and Azure but have come full circle with greater appreciation for design.',
 	},
 	{
 		year: '2015-17',
