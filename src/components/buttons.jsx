@@ -1,4 +1,4 @@
-import file from "../../public/simongrahamresume.pdf"
+import file from "../../public/SimonGraham_CV_cover_resume.pdf"
 
 function Buttons( {name}) {
     return(
