@@ -12,7 +12,8 @@ function Header() {
          <p className="text-sm max-w-xl mb-6 text-zinc-500 font-sans">
             Haigh, hello ja hei! I'm a multifaceted and humble guy from Ireland&#9752;and the UK&#127984;! I've been finding my way in Finland for the last 8 years and counting
             where after graduation, gained solid working knowledge of software development and design, multicloud, some data analysis visualisation and integration backend sorcery.
-            My lifelong talents and passion shine brightest with design, strategy and people but I'm highly capable elsewhere if needed.  
+             <br />
+             My lifelong talents and passion shine brightest with design, strategy and people but I'm highly capable elsewhere if needed.  
             <br />
             I have a decade of professional experience in audio, media and graphic design. I find these skills relevent to people around me so I'm happy to utilize them at work.
             I'm currently building a seperate UX/UI portfolio with Figma & React as of June 5th 2023.
